@@ -25,4 +25,4 @@ def crossword(x,y):
         print(index2*space + world1[i])
 
 
-crossword('puper', 'super')
+crossword('letter', 'low')
