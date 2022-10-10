@@ -24,5 +24,4 @@ def crossword(x,y):
     for i in range(index1+1, lenth):
         print(index2*space + world1[i])
 
-
-crossword('letter', 'low')
+crossword('hellow', 'world')
