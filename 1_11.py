@@ -8,13 +8,10 @@ def bilet(x,y):
             listok =  (6-len(a))*b + a
         else: listok = a
 
-    # print(listok, a, len(listok))
         num = list(listok)
-    # print(num)
+
         if (int(num[0]) + int(num[1]) + int(num[2]) == int(num[3]) + int(num[4]) + int(num[5])):
-            k += 1
-            # print(num)
-    
+            k += 1   
     
     
     print(k)
